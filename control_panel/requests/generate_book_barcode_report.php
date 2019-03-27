@@ -3,7 +3,6 @@
     session_start();
     require_once('pdf.php');
     require_once('connection.php');
-    require_once('individual_barcode.php');
     require_once('pdf_generate_book_barcode_report.php');
 
     $connection = new Connection();
@@ -12,7 +11,6 @@
     $connection2->open();
 
     $pdf = new PDF_Generate_Book_Barcode_Report('P', 'mm', 'Letter');
-    $pdfbarcode = new PDF_BARCODE();
 
     //$pdf->dateRange = $from . " up to " . $to;
     $pdf->printedBy = $_SESSION['account_first_name'] . ' ' . $_SESSION['account_last_name'];
