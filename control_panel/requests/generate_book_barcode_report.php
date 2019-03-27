@@ -29,13 +29,11 @@
 
         while($row2 = $connection2->fetch_assoc()) 
         {
-            //$barcode = str_replace(' ', '%20', $row2['Barcode_Number']);
-           // $ctr++;
+            $barcode = str_replace(' ', '', $row2['Barcode_Number']);
+            // $ctr++;
 
-            $barcode = urlencode($row2['Barcode_Number']);
-
-         $pdf->Row(array($row['Book_ID'], $row2['Barcode_Number'], $row['Book_Title'], $pdfbarcode->EAN13($pdf->GetX(), $pdf->GetY(), (int) $row2['Barcode_Number'])));
-        //$pdf->Ln();
+            $pdf->BarcodeRow(array($row['Book_ID'], $row2['Barcode_Number'], $row['Book_Title'], 'BARCODE:::' . $barcode));
+            //$pdf->Ln();
         }
     }
 
