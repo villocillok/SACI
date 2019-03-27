@@ -1,0 +1,18 @@
+[22-Sep-2018 07:24:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/saci/public_html/control_panel/requests/connection.php on line 42
+[22-Sep-2018 07:24:30 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/saci/public_html/control_panel/requests/connection.php on line 26
+[22-Sep-2018 07:24:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/saci/public_html/control_panel/requests/connection.php on line 42
+[22-Sep-2018 07:24:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/saci/public_html/control_panel/requests/connection.php on line 42
+[22-Sep-2018 07:24:41 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/saci/public_html/control_panel/requests/connection.php on line 26
+[22-Sep-2018 07:24:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/saci/public_html/control_panel/requests/connection.php on line 42
+[26-Feb-2019 08:26:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/saci/public_html/control_panel/requests/connection.php on line 42
+[26-Feb-2019 08:26:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/saci/public_html/control_panel/requests/connection.php on line 26
+[26-Feb-2019 08:26:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/saci/public_html/control_panel/requests/connection.php on line 42
+[26-Feb-2019 08:26:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/saci/public_html/control_panel/requests/connection.php on line 42
+[26-Feb-2019 08:26:19 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/saci/public_html/control_panel/requests/connection.php on line 26
+[26-Feb-2019 08:26:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/saci/public_html/control_panel/requests/connection.php on line 42
+[26-Feb-2019 08:58:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/saci/public_html/control_panel/requests/connection.php on line 42
+[26-Feb-2019 08:58:31 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/saci/public_html/control_panel/requests/connection.php on line 26
+[26-Feb-2019 08:58:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/saci/public_html/control_panel/requests/connection.php on line 42
+[26-Feb-2019 09:00:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/saci/public_html/control_panel/requests/connection.php on line 42
+[26-Feb-2019 09:00:30 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/saci/public_html/control_panel/requests/connection.php on line 26
+[26-Feb-2019 09:00:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/saci/public_html/control_panel/requests/connection.php on line 42

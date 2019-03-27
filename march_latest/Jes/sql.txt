@@ -1,0 +1,105 @@
+CREATE DATABASE SAGA;
+
+CREATE TABLE Students (
+	SN varchar(20) NOT NULL,
+	fname varchar(50) NOT NULL,
+	lname varchar(50) NOT NULL,
+	mname varchar(50) NOT NULL,
+	suffix varchar(10) NOT NULL,
+	email varchar(50) NOT NULL,
+	college varchar(50) NOT NULL,
+	course varchar(100) NOT NULL,
+	contact varchar(100) NOT NULL,
+	password varchar(600) NOT NULL,
+	salt varchar(12) NOT NULL,
+	PRIMARY KEY (SN)
+);
+
+CREATE TABLE Faculty (
+	FN varchar(20) NOT NULL,
+	fname varchar(50) NOT NULL,
+	lname varchar(50) NOT NULL,
+	mname varchar(50) NOT NULL,
+	suffix varchar(10) NOT NULL,
+	email varchar(50) NOT NULL,
+	college varchar(50) NOT NULL,
+	position varchar(100) NOT NULL,
+	contact varchar(100) NOT NULL,
+	password varchar(600) NOT NULL,
+	salt varchar(12) NOT NULL,
+	PRIMARY KEY (FN)
+);
+
+CREATE TABLE Admin (
+	username varchar(256) NOT NULL,
+	password varchar(600) NOT NULL,
+	PRIMARY KEY (username, password)
+);
+
+CREATE TABLE Jobs (
+	jobID INT AUTO_INCREMENT,
+	title varchar(100) NOT NULL,
+	description varchar(100) NOT NULL,
+	slot_alotted INT NOT NULL,
+	date_created varchar(50) NOT NULL,
+	office_college varchar(50),
+	faculty_no varchar(20),
+	PRIMARY KEY (jobID)
+);
+
+CREATE TABLE Application (
+	jobID INT NOT NULL,
+	SN varchar(20) NOT NULL,
+	date_applied varchar(50) NOT NULL,
+	PRIMARY KEY (jobID, SN)
+);
+
+CREATE TABLE Waitlist (
+	jobID INT NOT NULL,
+	SN varchar(20) NOT NULL,
+	PRIMARY KEY (SN)
+);
+
+CREATE TABLE Accepted (
+	jobID INT NOT NULL,
+	SN varchar(20) NOT NULL,
+	PRIMARY KEY (SN)
+);
+
+
+CREATE TABLE Employed (
+	jobID INT NOT NULL,
+	SN varchar(20) NOT NULL,
+	PRIMARY KEY (SN)
+);
+
+CREATE TABLE message (
+
+	message_id INT NOT NULL AUTO_INCREMENT,
+	title varchar(50) NOT NULL,
+	content varchar(4096) NOT NULL,
+	date_created varchar(50) NOT NULL,
+	receiver varchar(50) NOT NULL,
+	sender varchar(50) NOT NULL,
+	PRIMARY KEY (message_id)
+);
+
+CREATE TABLE notification (
+
+	notif_id INT NOT NULL AUTO_INCREMENT,
+	content varchar(4096) NOT NULL,
+	receiver varchar(50) NOT NULL,
+	date_created varchar(50) NOT NULL,
+	PRIMARY KEY (notif_id)
+
+);
+
+CREATE TABLE notif_type (
+
+	notif_type_id INT NOT NULL AUTO_INCREMENT,
+	notif_type_name varchar(50) NOT NULL,
+	content varchar(4096) NOT NULL,
+	PRIMARY KEY (notif_type_id)
+);
+
+/*ALTER TABLE students ADD COLUMN suffix VARCHAR(10) AFTER mname;*/

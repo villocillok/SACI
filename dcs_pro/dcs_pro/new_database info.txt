@@ -1,0 +1,25 @@
+classification:
+-conference paper (date presented)
+-journal (date published)
+-book chapter
+-book
+
+attributes-
+- Title
+- Author(s)
+- Date published/presentd
+- ISBN (Option)
+- ISSN (Option)
+- international/local
+- DOI
+- venue publication
+
+functions
+- report generating
+- main author
+	- by year
+	- by classification
+		-list of papers published
+
+name
+journal(s)

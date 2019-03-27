@@ -1,0 +1,10 @@
+55188	Phil	Davidson	Hunter	phil.davidson@upd.edu.ph	09126942915	n1lJEkL67b	Asian Institute of Tourism	instructor
+47314	Joe	Cornish	Ellison	joe.cornish@upd.edu.ph	09848978603	IDntxYrtcG	UP Extension Program in Olongapo	admin
+99291	Maria	Miller	Mills	maria.miller@upd.edu.ph	09796732825	WZdh5zMLyR	College of Education	professor
+68045	Cameron	Russell	Alsop	cameron.russell@upd.edu.ph	09695705144	WFtI0pLxYJ	UP Extenstion Program in Pampanga	admin
+87016	Lillian	Davidson	Paige	lillian.davidson@upd.edu.ph	09263065106	M46IjoHBGm	College of Law	associate professor
+73979	Warren	Kelly	Brown	warren.kelly@upd.edu.ph	09286310759	Lq2lOY5nQ1	College of Music	admin
+43901	David	Newman	Wilkins	david.newman@upd.edu.ph	09106184849	tzPa6TRw2q	School of Library and INformation studies	staff
+29739	Felicity	Mathis	Peake	felicity.mathis@upd.edu.ph	09987201545	oYFysEFHey	Technology Management Center	instructor ii
+31692	Ella	Grant	Parr	ella.grant@upd.edu.ph	09128624964	2AbctOEpGo	College of Human Kinetics	admin
+34031	Nicola	Jackson	Sharp	nicola.jackson@upd.edu.ph	09469382407	CVOTwOqgSe	UP Extension Program in Olongapo	admin

@@ -1,0 +1,94 @@
+2}g$N0oA}5No
+
+Instructions:
+-Sections are numbered
+
+1)
+Librarian Information
+-edit (there seems to be no problem)
+-add (there seems to be no problem)
+-delete (there seems to be no problem
+
+2)
+Borrower Information
+	a)at forms/manage_students_edit.php
+		wrong query:
+		"SELECT * FROM accounts INNER JOIN students ON accounts.Account_ID=borrower.Borrower_ID WHERE accounts.Account_ID='$id'"
+		no "students" table
+		FIX: Check public_html\control_panel\forms\manage_students_edit.php LINE 9
+		
+	
+	b)edit : scrolling fixed
+		FIX: Check public_html\control_panel\assets\js\script.js LINE 42
+	
+	c) Found bug at public_html\control_panel\requests\manage_students.php
+		BUG description: Updated items disappear when refreshed.
+		FIX: Check the ff:
+			- public_html\control_panel\requests\manage_students.php LINE 48 and LINE 66
+			- public_html\control_panel\forms\manage_students_edit.php LINE 68
+
+	
+3)
+Borrowing 
+
+	a) FOUND BUG: Undefined Author Names etc.
+		FIX: check public_html\control_panel\requests\load_borrowed_materials.php LINE 29
+		
+	b) Borrower Description Bug Fixed:
+		FIX: check public_html\control_panel\requests\load_reserved_materials_borrower.php LINE 17
+	
+	c) "Oops! Something went wrong" Bug. Not actually Bug. It's triggered when the book is already borrowed.
+		
+4)
+Books
+
+	a) edit - Section bug Fixed
+		FIX: check public_html\control_panel\forms\manage_materials_edit.php LINE 55 
+			
+	b) edit - wrong book is being edited
+		FIX: check public_html\control_panel\assets\js\manage_materials.js LINE 53
+		
+5)
+Returning
+
+6)
+weeding
+	a) Added functionality: restoring
+		added files:
+			- public_html\control_panel\requests\manage_weeding.php
+		edited files:
+			- public_html\control_panel\assets\js\manage_weeding.js
+			
+7)
+Settled Penalty
+
+	added column for `return` table:
+		-ALTER TABLE `return` ADD `Borrower_Details_ID` INT NOT NULL AFTER `Official_Receipt_Number`;
+		
+8)
+Report Generating
+	Updated:
+		CHECK public_html\control_panel\assets\js\generate_reports.js
+		CHECK public_html\control_panel\generate_reports.php
+
+9)
+Borrower
+
+	a) Adding: Fixed
+		Changes made to public_html\requests\login_request.php
+		
+10)
+reserved books
+	a) reserved Not working: Fixed
+		FIX:
+			CHECK public_html\control_panel\assets\js\reserved_materials.js LINE 81
+			
+			
+11)
+Returning
+	a)	returning not working: Fixed
+		FIX:
+			CHECK public_html\control_panel\requests\receive_materials.php LINE 84
+			
+	
+			

@@ -1,0 +1,300 @@
+2010-98028	Evan	Morrison	Parsons	evan.morrison@upd.edu.ph	09684462574 	BDmeebwUFa	Bachelor of Science in Hotel and Restaurant Management
+2011-16159	John	Bell	Underwood	john.bell@upd.edu.ph	09752749798 	PRzkjBdnBF	Bachelor of Science in Geodetic Engineering
+2018-16799	Dorothy	Gibson	Walsh	dorothy.gibson@upd.edu.ph	09789223844 	GfNBDLPrHD	Bachelor of Arts in Broadcasting
+2017-38888	Tim	Dickens	Wright	tim.dickens@upd.edu.ph	09372980142 	K8Cu7CURXw	Bachelor of Science in Electronics and Communications Engineering
+2018-50020	Blake	Mathis	Oliver	blake.mathis@upd.edu.ph	09481489047 	xeytAqEqyT	Bachelor of Arts in Philosophy
+2016-98925	Chloe	Lewis	Walsh	chloe.lewis@upd.edu.ph	09256457434 	Aj6orGWiOy	Bachelor of Science in Industrial Engineering
+2016-71533	Lily	Parr	Blake	lily.parr@upd.edu.ph	09664595562 	7uFgjsTahv	Bachelor of Arts in Psychology
+2016-59420	Melanie	Payne	Powell	melanie.payne@upd.edu.ph	09201977707 	h0fjsgzxV0	Bachelor of Science in Industrial Engineering
+2014-52008	Leonard	Wilkins	Greene	leonard.wilkins@upd.edu.ph	09965086899 	yobXOFgKU4	Bachelor of Fine Arts Major in Painting
+2012-63750	Anna	Wright	James	anna.wright@upd.edu.ph	09618904052 	14GKzDqspj	Bachelor of Science in Industrial Engineering
+2014-39380	Joseph	Coleman	Murray	joseph.coleman@upd.edu.ph	09549996565 	IPi87BqvQb	Bachelor of Arts in Philosophy
+2013-27760	Benjamin	Glover	McDonald	benjamin.glover@upd.edu.ph	09396661288 	UTRIieYrYT	Bachelor of Science in Electronics and Communications Engineering
+2013-42603	Neil	Short	Scott	neil.short@upd.edu.ph	09552436857 	CBxgGicmFs	Bachelor of Science in Geology
+2017-77226	Owen	Davidson	Cornish	owen.davidson@upd.edu.ph	09506951235 	wYq0qrRD2B	Bachelor of Elementary Education
+2018-56884	Liam	Paige	Parsons	liam.paige@upd.edu.ph	09059593659 	hoqSquW4pJ	Bachelor of Science in Business Administration
+2011-92943	Nicola	Langdon	Dickens	nicola.langdon@upd.edu.ph	09617685789 	1RmpZ56dFi	Bachelor of Science in Biology
+2013-76544	Joan	Hamilton	Murray	joan.hamilton@upd.edu.ph	09624212643 	BpQlTAQnKn	Bachelor of Science in Hotel and Restaurant Management
+2010-44013	Sophie	Young	Johnston	sophie.young@upd.edu.ph	09555316305 	wNC0DPQoMW	Bachelor of Science in Geodetic Engineering
+2017-90837	Michael	Mitchell	Wilson	michael.mitchell@upd.edu.ph	09000025607 	NLAX1u9bhS	Bachelor of Arts in Broadcasting
+2015-93615	Stephanie	Randall	Knox	stephanie.randall@upd.edu.ph	09380107967 	3SjzZwJjtJ	Bachelor of Library and Information Science
+2013-43343	Theresa	Henderson	Thomson	theresa.henderson@upd.edu.ph	09083436962 	q0LuWbJSEl	Bachelor of Arts in Philosophy
+2017-56583	Kimberly	Davidson	Chapman	kimberly.davidson@upd.edu.ph	09259413270 	tZhenBkLfh	Bachelor of Fine Arts Major in Sculpture
+2014-26238	Austin	Metcalfe	Hughes	austin.metcalfe@upd.edu.ph	09018198661 	nWU7oAURfW	Bachelor of Science in Industrial Engineering
+2012-90454	Adrian	Wilson	Hodges	adrian.wilson@upd.edu.ph	09759150956 	r1825eXciv	Bachelor of Fine Arts Major in Painting
+2010-26234	Neil	Ferguson	Davies	neil.ferguson@upd.edu.ph	09670968111 	Y7awQqXgtc	Bachelor of Science in Geology
+2014-87244	Maria	Grant	Churchill	maria.grant@upd.edu.ph	09929034459 	A2zuBPhcjE	Bachelor of Science in Electrical Engineering
+2016-33533	Jacob	Carr	Oliver	jacob.carr@upd.edu.ph	09441559733 	4rbHQ8hr5I	Bachelor of Science in Computer Science
+2011-29589	Ian	Powell	Robertson	ian.powell@upd.edu.ph	09106900062 	ZBttZQox9A	Bachelor of Arts in Journalism
+2013-27729	Robert	Metcalfe	Hodges	robert.metcalfe@upd.edu.ph	09418660931 	anXKAOO4BN	Bachelor of Arts in Psychology
+2015-71134	Jan	Peake	Black	jan.peake@upd.edu.ph	09941061080 	EQZ6k90GX2	Bachelor of Science in Hotel and Restaurant Management
+2011-88422	Faith	Rutherford	Miller	faith.rutherford@upd.edu.ph	09915190180 	Z7SZmfAlfq	Bachelor of Science in Geodetic Engineering
+2017-96002	Max	Berry	Arnold	max.berry@upd.edu.ph	09909393275 	ozXUydOrcR	Bachelor of Fine Arts Major in Sculpture
+2012-01829	Nathan	Kerr	Powell	nathan.kerr@upd.edu.ph	09345646938 	t8uJg9Do6M	Bachelor of Science in Computer Science
+2016-63626	Lillian	Young	Quinn	lillian.young@upd.edu.ph	09412919017 	FTGSUI2yyv	Bachelor of Science in Interior Design
+2014-05296	Lily	Hill	Dickens	lily.hill@upd.edu.ph	09605655881 	HfwuqmaqqL	Bachelor of Science in Electronics and Communications Engineering
+2014-21929	Amy	McGrath	Vaughan	amy.mcgrath@upd.edu.ph	09314061579 	MLfwTyaE6w	Bachelor of Elementary Education
+2011-51012	Boris	Robertson	MacDonald	boris.robertson@upd.edu.ph	09867578851 	5VCd87fJyZ	Bachelor of Arts in Psychology
+2016-44394	Emily	Mitchell	Scott	emily.mitchell@upd.edu.ph	09278794606 	rqsZaYPBQc	Bachelor of Science in Geology
+2012-94649	Kimberly	Kerr	Hughes	kimberly.kerr@upd.edu.ph	09657180863 	s9JDt4ccAc	Bachelor of Fine Arts Major in Sculpture
+2017-61247	Megan	Marshall	Alsop	megan.marshall@upd.edu.ph	09971526326 	neQLsmC8kb	Bachelor of Science in Industrial Engineering
+2017-72626	Caroline	Churchill	Lawrence	caroline.churchill@upd.edu.ph	09732453830 	H4vFoMpqB3	Bachelor of Elementary Education
+2011-01200	Olivia	Mitchell	Ogden	olivia.mitchell@upd.edu.ph	09722943492 	4WRDACCvZc	Bachelor of Science in Interior Design
+2016-10233	Luke	Gill	Nash	luke.gill@upd.edu.ph	09872683561 	cGVHWv3jLU	Bachelor of Science in Metallurgical Engineering
+2016-05622	Vanessa	Kerr	Avery	vanessa.kerr@upd.edu.ph	09442405698 	bAgrRmOuT0	Bachelor of Library and Information Science
+2015-37263	Joan	Metcalfe	Underwood	joan.metcalfe@upd.edu.ph	09900695748 	nbWpXc4KpQ	Bachelor of Science in Electrical Engineering
+2018-85276	Mary	Terry	Hunter	mary.terry@upd.edu.ph	09354067227 	y9DwkP6f3u	Bachelor of Science in Mining Engineering
+2013-62140	Emma	Ross	Blake	emma.ross@upd.edu.ph	09426667838 	MnBpXOhIJC	Bachelor of Library and Information Science
+2018-89463	Julia	Powell	Oliver	julia.powell@upd.edu.ph	09109090665 	YU6IB1sG2U	Bachelor of Science in Social Work
+2015-90271	Matt	Quinn	Reid	matt.quinn@upd.edu.ph	09006960893 	xb3hLQ4oIs	Bachelor of Science in Architecture
+2013-92069	Hannah	MacDonald	Gray	hannah.macdonald@upd.edu.ph	09601318062 	WvhltQRBmJ	Bachelor of Fine Arts Major in Industrial Design
+2014-42346	Bella	Slater	Thomson	bella.slater@upd.edu.ph	09806679483 	nocRHdUoc4	Bachelor of Arts in Journalism
+2015-24330	Donna	Quinn	Mackay	donna.quinn@upd.edu.ph	09458694680 	Bz7DHNKICf	Bachelor of Science in Business Administration
+2017-49133	Austin	Jackson	Baker	austin.jackson@upd.edu.ph	09399385949 	1WUm1BtBQC	Bachelor of Science in Geodetic Engineering
+2017-76007	Adam	Duncan	Kerr	adam.duncan@upd.edu.ph	09300557169 	H2ydzrvcxZ	Bachelor of Arts in Journalism
+2018-41204	Brandon	Smith	Payne	brandon.smith@upd.edu.ph	09468626297 	PzXz8lHVTH	Bachelor of Science in Chemical Engineering
+2013-51914	Madeleine	Young	Hardacre	madeleine.young@upd.edu.ph	09731593976 	NcjEiSCZu2	Bachelor of Fine Arts Major in Painting
+2011-71550	Stephanie	Brown	Marshall	stephanie.brown@upd.edu.ph	09952670566 	cUeCRx7ChT	Bachelor of Arts in Broadcasting
+2018-19778	Joanne	Jackson	Langdon	joanne.jackson@upd.edu.ph	09567948200 	8GVpo2eNGS	Bachelor of Science in Electrical Engineering
+2014-18784	Matt	Coleman	Kelly	matt.coleman@upd.edu.ph	09778275886 	v2Aq3K3ZNH	Bachelor of Science in Metallurgical Engineering
+2010-78379	Alan	Burgess	Manning	alan.burgess@upd.edu.ph	09157160025 	evvsexAFO0	Bachelor of Science in Industrial Engineering
+2015-06532	Harry	Slater	Paige	harry.slater@upd.edu.ph	09771007809 	LYrT2XJ6Mm	Bachelor of Science in Biology
+2016-18642	Sonia	Bond	Rees	sonia.bond@upd.edu.ph	09674890112 	r73WYMY6tw	Bachelor of Science in Architecture
+2014-24122	Claire	Ross	Johnston	claire.ross@upd.edu.ph	09654471520 	vQa7HkETjK	Bachelor of Fine Arts Major in Visual Communication
+2012-08887	Diana	Mills	Taylor	diana.mills@upd.edu.ph	09740202214 	TeHCuM15bL	Bachelor of Science in Industrial Engineering
+2012-55795	Charles	Hardacre	Randall	charles.hardacre@upd.edu.ph	09250599580 	xorW4bvFob	Bachelor of Science in Metallurgical Engineering
+2010-19718	Leonard	McGrath	Rutherford	leonard.mcgrath@upd.edu.ph	09406547758 	hmcFNustHy	Bachelor of Science in Metallurgical Engineering
+2017-04454	Lily	Roberts	Morgan	lily.roberts@upd.edu.ph	09130906102 	0NcYpQPriA	Bachelor of Arts in Broadcasting
+2014-06132	Alexander	Miller	Manning	alexander.miller@upd.edu.ph	09218920647 	3Nha1gjBXP	Bachelor of Arts in Philosophy
+2016-92750	Richard	Blake	Hodges	richard.blake@upd.edu.ph	09868617462 	LfSTxv32xq	Bachelor of Science in Geodetic Engineering
+2012-73122	Michael	Martin	Reid	michael.martin@upd.edu.ph	09153437601 	z5ECoO0xmH	Bachelor of Fine Arts Major in Sculpture
+2011-57654	Dominic	Duncan	Clark	dominic.duncan@upd.edu.ph	09653705454 	3uM6cLQtLg	Bachelor of Science in Psychology
+2014-79303	Oliver	Short	Dickens	oliver.short@upd.edu.ph	09447239793 	RQNtOchCSn	Bachelor of Library and Information Science
+2018-45716	Natalie	Howard	Allan	natalie.howard@upd.edu.ph	09882659943 	F1klGV2na7	Bachelor of Science in Civil Engineering
+2017-43740	Warren	Oliver	Hughes	warren.oliver@upd.edu.ph	09116498672 	SKawqqHasL	Bachelor of Science in Mining Engineering
+2010-23691	Robert	Chapman	Ferguson	robert.chapman@upd.edu.ph	09102863159 	kb92pfpT6j	Bachelor of Science in Electrical Engineering
+2013-80632	Harry	Rampling	Poole	harry.rampling@upd.edu.ph	09980895040 	skCUSzYLXV	Bachelor of Science in Architecture
+2015-39620	Alexander	Davies	Berry	alexander.davies@upd.edu.ph	09836406233 	9dm3KMwaTm	Bachelor of Arts in Philosophy
+2018-13757	Jason	Mitchell	Baker	jason.mitchell@upd.edu.ph	09723447564 	Naebd0chKR	Bachelor of Science in Electrical Engineering
+2013-79696	Leah	Allan	Ball	leah.allan@upd.edu.ph	09160077084 	hSn7XaTnDY	Bachelor of Science in Industrial Engineering
+2016-76964	Carolyn	Buckland	Peters	carolyn.buckland@upd.edu.ph	09152779385 	KIl1nC0RFA	Bachelor of Science in Geodetic Engineering
+2012-96990	Yvonne	Tucker	Walsh	yvonne.tucker@upd.edu.ph	09042016431 	Rtu6DvnXrn	Bachelor of Science in Computer Science
+2017-21672	Jack	Edmunds	Clarkson	jack.edmunds@upd.edu.ph	09029204093 	ozkaR6pU2y	Bachelor of Science in Chemical Engineering
+2014-43363	Penelope	Gray	Cameron	penelope.gray@upd.edu.ph	09147062822 	rAP9t2wHt3	Bachelor of Arts in Journalism
+2015-44791	Rose	Slater	Metcalfe	rose.slater@upd.edu.ph	09238871578 	3MtE4Rc2Pg	Bachelor of Secondary Education
+2015-86583	Emma	Wallace	Manning	emma.wallace@upd.edu.ph	09274934798 	vrNu9jNmzs	Bachelor of Science in Architecture
+2014-92735	Alexandra	Chapman	Rutherford	alexandra.chapman@upd.edu.ph	09137033176 	f033Fxus1g	Bachelor of Science in Electronics and Communications Engineering
+2011-22710	Katherine	Manning	Tucker	katherine.manning@upd.edu.ph	09867748951 	RWN8PPQAzQ	Bachelor of Arts in Broadcasting
+2016-27410	Theresa	Davies	Rutherford	theresa.davies@upd.edu.ph	09195932639 	lRraLr3M3e	Bachelor of Science in Psychology
+2011-26005	Fiona	Welch	Russell	fiona.welch@upd.edu.ph	09140940444 	PRCRrWFlrL	Bachelor of Science in Electrical Engineering
+2018-95339	Bella	Hudson	Lewis	bella.hudson@upd.edu.ph	09293493844 	YmipRrV0gp	Bachelor of Secondary Education
+2013-10317	Mary	Harris	Lewis	mary.harris@upd.edu.ph	09533099462 	i2NXXB5BmX	Bachelor of Science in Chemical Engineering
+2016-65888	Faith	Arnold	Hart	faith.arnold@upd.edu.ph	09093517550 	8it6Ew8fCR	Bachelor of Elementary Education
+2016-17086	William	Baker	Scott	william.baker@upd.edu.ph	09083043567 	pZcfGcoCy1	Bachelor of Science in Electronics and Communications Engineering
+2017-01126	Harry	Hodges	Hudson	harry.hodges@upd.edu.ph	09723186004 	x0bqohTJej	Bachelor of Arts in Broadcasting
+2013-92088	Anthony	Watson	Pullman	anthony.watson@upd.edu.ph	09262074990 	dttTcoFCgs	Bachelor of Science in Psychology
+2017-93298	Boris	Lewis	Johnston	boris.lewis@upd.edu.ph	09406389262 	F2inctKwxM	Bachelor of Science in Civil Engineering
+2014-58654	Anthony	Greene	Springer	anthony.greene@upd.edu.ph	09842625467 	02OSzmponi	Bachelor of Science in Interior Design
+2014-26393	Felicity	Dowd	Metcalfe	felicity.dowd@upd.edu.ph	09540188794 	vJDslPCV2r	Bachelor of Science in Civil Engineering
+2014-82632	Abigail	Thomson	Mackay	abigail.thomson@upd.edu.ph	09765744914 	NF0magLfd9	Bachelor of Secondary Education
+2013-09091	Vanessa	Sharp	MacDonald	vanessa.sharp@upd.edu.ph	09981136170 	svOS6NXBDa	Bachelor of Science in Social Work
+2014-01153	Amanda	Parr	Slater	amanda.parr@upd.edu.ph	09205597240 	zbIfPjJYJz	Bachelor of Fine Arts Major in Industrial Design
+2017-60708	Diana	Clark	Roberts	diana.clark@upd.edu.ph	09811397245 	FEO0nboGjR	Bachelor of Science in Mining Engineering
+2010-54126	Brian	Scott	Fraser	brian.scott@upd.edu.ph	09395218635 	DgELy9Bnhc	Bachelor of Arts in Journalism
+2010-07951	Rachel	MacLeod	Mackenzie	rachel.macleod@upd.edu.ph	09690925403 	w0UoxPuAh7	Bachelor of Science in Interior Design
+2014-85442	Paul	Turner	Anderson	paul.turner@upd.edu.ph	09761474209 	4gg6Ycza8a	Bachelor of Fine Arts Major in Sculpture
+2016-49517	Mary	Hart	Black	mary.hart@upd.edu.ph	09643360555 	JrUM6d6yWv	Bachelor of Arts in Psychology
+2015-36145	Blake	Quinn	Sharp	blake.quinn@upd.edu.ph	09775146407 	Vtvh8M5y9m	Bachelor of Fine Arts Major in Industrial Design
+2016-76052	Ryan	Ogden	Hart	ryan.ogden@upd.edu.ph	09775179215 	SmoyQ2VC0A	Bachelor of Arts in Philosophy
+2011-34463	Lisa	Walsh	Springer	lisa.walsh@upd.edu.ph	09265407859 	qyWM2y0Fze	Bachelor of Arts in Journalism
+2016-66841	Julian	Powell	Butler	julian.powell@upd.edu.ph	09459775817 	448UaJtc4R	Bachelor of Fine Arts Major in Painting
+2017-29671	Deirdre	Knox	Jones	deirdre.knox@upd.edu.ph	09683879909 	XH6QEUBPEN	Bachelor of Science in Social Work
+2013-92269	Rebecca	Lee	Mathis	rebecca.lee@upd.edu.ph	09789851437 	sy6A6CS8Mo	Bachelor of Secondary Education
+2016-83032	Steven	Johnston	Fisher	steven.johnston@upd.edu.ph	09685045172 	kSMIE32jK7	Bachelor of Science in Electronics and Communications Engineering
+2013-23677	Megan	Jackson	Lee	megan.jackson@upd.edu.ph	09603689035 	6ezw6xh6sG	Bachelor of Secondary Education
+2011-80348	Joan	Cornish	Arnold	joan.cornish@upd.edu.ph	09511014578 	XiM30ovyPm	Bachelor of Secondary Education
+2017-67758	Andrea	Hardacre	Hughes	andrea.hardacre@upd.edu.ph	09330618773 	BcupT48tMi	Bachelor of Science in Architecture
+2013-23281	Jennifer	King	Underwood	jennifer.king@upd.edu.ph	09788418489 	pbA9V3ZARf	Bachelor of Science in Geodetic Engineering
+2018-99902	Thomas	Arnold	Davies	thomas.arnold@upd.edu.ph	09331741597 	evGrbmLAsR	Bachelor of Science in Geodetic Engineering
+2014-11953	Piers	Marshall	Smith	piers.marshall@upd.edu.ph	09103785218 	Oi0zDfRYrk	Bachelor of Science in Electrical Engineering
+2010-81469	Neil	Parr	Abraham	neil.parr@upd.edu.ph	09789740845 	wA27OEnnGi	Bachelor of Science in Chemical Engineering
+2010-13409	Jake	Peake	Blake	jake.peake@upd.edu.ph	09386373973 	Ma2lypLAj0	Bachelor of Science in Interior Design
+2017-23247	Irene	McLean	Peake	irene.mclean@upd.edu.ph	09584034720 	cxYvM3wHux	Bachelor of Science in Mining Engineering
+2010-75829	Jack	Newman	Clarkson	jack.newman@upd.edu.ph	09732260316 	hOz5fNhS93	Bachelor of Arts in Broadcasting
+2017-57498	Andrew	Mathis	Wallace	andrew.mathis@upd.edu.ph	09656103449 	4AvVk8RSK2	Bachelor of Science in Electrical Engineering
+2010-26169	Jonathan	Payne	Jackson	jonathan.payne@upd.edu.ph	09310801112 	4jS7oA6FaW	Bachelor of Science in Civil Engineering
+2016-09707	Colin	Glover	Tucker	colin.glover@upd.edu.ph	09803758354 	yCkZoJFpDe	Bachelor of Science in Mining Engineering
+2013-20862	Samantha	McGrath	Howard	samantha.mcgrath@upd.edu.ph	09542718437 	8Bxp1QBVym	Bachelor of Science in Architecture
+2018-91016	Cameron	Black	Stewart	cameron.black@upd.edu.ph	09461726808 	QqF5TwscAW	Bachelor of Science in Electrical Engineering
+2010-84763	Cameron	Hardacre	Cameron	cameron.hardacre@upd.edu.ph	09982877814 	UhmdiZ5U6d	Bachelor of Science in Industrial Engineering
+2011-58095	Stewart	Wilson	Martin	stewart.wilson@upd.edu.ph	09221824844 	4dd6Gdtwn3	Bachelor of Science in Geology
+2017-20051	Jonathan	Bell	Ferguson	jonathan.bell@upd.edu.ph	09605323926 	1yTwRHwDhR	Bachelor of Fine Arts Major in Sculpture
+2014-32120	Adrian	Jackson	McLean	adrian.jackson@upd.edu.ph	09594210000 	PS0DTN3EJH	Bachelor of Science in Electrical Engineering
+2013-30413	Eric	Parr	Mathis	eric.parr@upd.edu.ph	09211034160 	KGmMxXV4p6	Bachelor of Science in Geology
+2014-77912	Wanda	Lee	Rutherford	wanda.lee@upd.edu.ph	09392365147 	SpBdH9VzDK	Bachelor of Science in Geodetic Engineering
+2015-59527	Gavin	Hughes	Manning	gavin.hughes@upd.edu.ph	09066386108 	TF6dy66kDk	Bachelor of Science in Electrical Engineering
+2010-27297	Gordon	Robertson	Clark	gordon.robertson@upd.edu.ph	09239712207 	oPZ3sxPg5D	Bachelor of Science in Psychology
+2012-91740	Connor	Bell	Morgan	connor.bell@upd.edu.ph	09822691142 	rVRoLE0QjV	Bachelor of Arts in Psychology
+2011-83201	Lisa	Hart	Cornish	lisa.hart@upd.edu.ph	09730354650 	IxzbuZ79P2	Bachelor of Arts in Philosophy
+2018-76551	Andrew	Manning	Peake	andrew.manning@upd.edu.ph	09312642165 	Djv9E5Cel1	Bachelor of Science in Electrical Engineering
+2015-69637	Jonathan	Thomson	Morgan	jonathan.thomson@upd.edu.ph	09196331268 	gM4cWLrUr6	Bachelor of Science in Business Administration
+2010-74767	Keith	Hardacre	Terry	keith.hardacre@upd.edu.ph	09788981721 	486pi6TpcP	Bachelor of Library and Information Science
+2012-60295	Simon	Springer	Miller	simon.springer@upd.edu.ph	09082087685 	vUzg5LQj89	Bachelor of Science in Geology
+2017-29386	Theresa	Nolan	Baker	theresa.nolan@upd.edu.ph	09183151038 	iNxRjpUQfY	Bachelor of Library and Information Science
+2014-00652	Justin	Manning	James	justin.manning@upd.edu.ph	09654565216 	q3XKVi0MKM	Bachelor of Arts in Psychology
+2017-23481	Paul	Hughes	Reid	paul.hughes@upd.edu.ph	09078033980 	EmR2pxmuDv	Bachelor of Fine Arts Major in Industrial Design
+2016-33062	Steven	Harris	Peters	steven.harris@upd.edu.ph	09000754090 	U4QacNCqdO	Bachelor of Science in Geology
+2017-87291	Michael	Paige	Wallace	michael.paige@upd.edu.ph	09825828907 	0JAX2w3PiS	Bachelor of Science in Civil Engineering
+2014-11368	Sebastian	Hudson	North	sebastian.hudson@upd.edu.ph	09018052772 	WIQxmdyIjS	Bachelor of Science in Electronics and Communications Engineering
+2011-76966	Liam	Arnold	Jones	liam.arnold@upd.edu.ph	09816764852 	42ZKB3emMu	Bachelor of Science in Geodetic Engineering
+2011-14709	Jacob	Langdon	Ross	jacob.langdon@upd.edu.ph	09772765022 	xxwI5X8d32	Bachelor of Elementary Education
+2014-31596	Zoe	Greene	Sharp	zoe.greene@upd.edu.ph	09445759048 	lqvcRFlwN4	Bachelor of Fine Arts Major in Sculpture
+2012-28939	Lucas	Dickens	Bell	lucas.dickens@upd.edu.ph	09230081506 	ThrXZ2o7IP	Bachelor of Science in Social Work
+2012-88193	Charles	White	McGrath	charles.white@upd.edu.ph	09097952032 	6ooMw23D4a	Bachelor of Science in Metallurgical Engineering
+2011-22375	Megan	Coleman	Bower	megan.coleman@upd.edu.ph	09977778610 	9MH0tNCoZG	Bachelor of Science in Mining Engineering
+2013-05957	Nicholas	Cornish	Newman	nicholas.cornish@upd.edu.ph	09084920615 	ehLuG1Wgla	Bachelor of Arts in Journalism
+2012-29865	Sarah	Cameron	Mathis	sarah.cameron@upd.edu.ph	09882592406 	70I17xOMqG	Bachelor of Science in Chemical Engineering
+2018-46816	Steven	Campbell	Powell	steven.campbell@upd.edu.ph	09095627626 	cX9mUE007T	Bachelor of Arts in Psychology
+2012-40906	Diane	McDonald	McDonald	diane.mcdonald@upd.edu.ph	09922413890 	aEjH8TTPUk	Bachelor of Science in Industrial Engineering
+2018-61032	Neil	Dyer	Martin	neil.dyer@upd.edu.ph	09186408897 	v1jjs1GQ4D	Bachelor of Fine Arts Major in Painting
+2012-32467	Jason	Hardacre	Jackson	jason.hardacre@upd.edu.ph	09798915075 	bQrwwxOADq	Bachelor of Arts in Journalism
+2018-59095	Simon	Dickens	Skinner	simon.dickens@upd.edu.ph	09268413812 	Ici5GKtbFx	Bachelor of Fine Arts Major in Sculpture
+2015-30817	Michael	Buckland	Vance	michael.buckland@upd.edu.ph	09248404534 	XDYSRXnFVS	Bachelor of Science in Geodetic Engineering
+2018-57820	Sally	Hudson	Powell	sally.hudson@upd.edu.ph	09267577719 	YFoQryaYZm	Bachelor of Arts in Journalism
+2017-63227	Vanessa	Rutherford	Turner	vanessa.rutherford@upd.edu.ph	09488895145 	f4TXaiD530	Bachelor of Fine Arts Major in Sculpture
+2012-77404	Keith	Kelly	James	keith.kelly@upd.edu.ph	09533999929 	irINX1CWAN	Bachelor of Science in Hotel and Restaurant Management
+2010-28799	Molly	Dickens	Scott	molly.dickens@upd.edu.ph	09500996665 	ET20z1MubB	Bachelor of Science in Geodetic Engineering
+2013-64932	Blake	MacLeod	Hardacre	blake.macleod@upd.edu.ph	09865452599 	7eZM3gHvSt	Bachelor of Science in Electrical Engineering
+2011-84974	Lucas	McLean	Gray	lucas.mclean@upd.edu.ph	09135766970 	weOEzR1ikM	Bachelor of Fine Arts Major in Sculpture
+2016-35749	Lily	Paige	Marshall	lily.paige@upd.edu.ph	09660173133 	p6AUbfn3vZ	Bachelor of Arts in Philosophy
+2016-71482	Christopher	Stewart	Mackenzie	christopher.stewart@upd.edu.ph	09411800482 	bviBizZIMH	Bachelor of Science in Electronics and Communications Engineering
+2010-17974	Gabrielle	Morrison	May	gabrielle.morrison@upd.edu.ph	09958605536 	PfZR12HnHj	Bachelor of Library and Information Science
+2015-21463	Abigail	Wallace	Coleman	abigail.wallace@upd.edu.ph	09960814693 	b6b40xqPLm	Bachelor of Science in Interior Design
+2011-26011	Sue	Paige	Duncan	sue.paige@upd.edu.ph	09117731645 	L7a4lO1OV2	Bachelor of Arts in Broadcasting
+2011-22365	Eric	Piper	Sutherland	eric.piper@upd.edu.ph	09119992999 	kWg819xL4k	Bachelor of Science in Biology
+2014-61875	Piers	Churchill	Chapman	piers.churchill@upd.edu.ph	09911314809 	ENPCYjb5H7	Bachelor of Elementary Education
+2011-27512	Max	Duncan	Ball	max.duncan@upd.edu.ph	09616791841 	1XGBtaxR6w	Bachelor of Secondary Education
+2016-42824	Warren	Nolan	Vance	warren.nolan@upd.edu.ph	09545819549 	aC9cgYNM1J	Bachelor of Science in Psychology
+2014-14118	Julia	Duncan	Nash	julia.duncan@upd.edu.ph	09131413904 	GRIxDgW4kT	Bachelor of Science in Chemical Engineering
+2016-78924	Alison	Skinner	Baker	alison.skinner@upd.edu.ph	09979092337 	eG8GQpe8m1	Bachelor of Science in Metallurgical Engineering
+2017-75730	Peter	Lewis	Glover	peter.lewis@upd.edu.ph	09787978906 	DWyDHa0KUh	Bachelor of Science in Civil Engineering
+2014-77997	Olivia	Bailey	Henderson	olivia.bailey@upd.edu.ph	09944667710 	vF7TJmnJuN	Bachelor of Science in Electronics and Communications Engineering
+2015-17129	Gavin	Clarkson	Robertson	gavin.clarkson@upd.edu.ph	09798652404 	uznQjpy6b9	Bachelor of Arts in Broadcasting
+2010-61781	Gabrielle	Knox	Davidson	gabrielle.knox@upd.edu.ph	09765672535 	haLPvvFyLp	Bachelor of Science in Electronics and Communications Engineering
+2014-46582	Pippa	Quinn	Cameron	pippa.quinn@upd.edu.ph	09802542078 	dc5VO8MUq4	Bachelor of Science in Geology
+2013-02022	Alexander	Murray	Paterson	alexander.murray@upd.edu.ph	09437077416 	1xskk0Dlau	Bachelor of Science in Social Work
+2011-79656	Claire	Kelly	Ferguson	claire.kelly@upd.edu.ph	09387772890 	6JdxBIyPUX	Bachelor of Science in Business Administration
+2014-73632	Deirdre	Black	Walsh	deirdre.black@upd.edu.ph	09583083681 	ReNHmkZh2o	Bachelor of Science in Interior Design
+2015-54831	Colin	Forsyth	Ellison	colin.forsyth@upd.edu.ph	09586271854 	dhROMMAYux	Bachelor of Science in Biology
+2011-92604	Ava	Peters	Lambert	ava.peters@upd.edu.ph	09861858197 	3kPNaIO7Lx	Bachelor of Elementary Education
+2011-64394	Dylan	Underwood	Reid	dylan.underwood@upd.edu.ph	09888938510 	4eqSjQKxBu	Bachelor of Science in Electrical Engineering
+2017-87349	Victoria	Mackenzie	Parsons	victoria.mackenzie@upd.edu.ph	09541314053 	WwQvpgMDu5	Bachelor of Science in Electronics and Communications Engineering
+2014-03875	Brandon	Dickens	Simpson	brandon.dickens@upd.edu.ph	09406279992 	QN7LlnBLPA	Bachelor of Science in Psychology
+2016-49725	Oliver	Russell	Nolan	oliver.russell@upd.edu.ph	09983729822 	WAAbrC7X5k	Bachelor of Arts in Philosophy
+2013-53197	Wanda	Sanderson	Paterson	wanda.sanderson@upd.edu.ph	09708953904 	4EBcrPhI3o	Bachelor of Fine Arts Major in Visual Communication
+2011-28035	Max	Walker	Bailey	max.walker@upd.edu.ph	09578716208 	9W8mH4sHux	Bachelor of Science in Industrial Engineering
+2014-71535	Deirdre	Lewis	Parsons	deirdre.lewis@upd.edu.ph	09190524841 	5tZWpLPs4j	Bachelor of Science in Geodetic Engineering
+2014-12036	Piers	Gill	Berry	piers.gill@upd.edu.ph	09219989221 	I3fGCX3iF7	Bachelor of Arts in Broadcasting
+2015-16517	Dorothy	Berry	Ferguson	dorothy.berry@upd.edu.ph	09506256267 	eGld9bo3Xf	Bachelor of Science in Electrical Engineering
+2012-02536	Mary	Sanderson	King	mary.sanderson@upd.edu.ph	09876449946 	YhiqhpSIqm	Bachelor of Science in Hotel and Restaurant Management
+2016-33164	Mary	Slater	Dowd	mary.slater@upd.edu.ph	09617389670 	XReUKBSWSX	Bachelor of Science in Electrical Engineering
+2015-56433	Frank	McDonald	Jackson	frank.mcdonald@upd.edu.ph	09383145777 	8fG27aWZMQ	Bachelor of Library and Information Science
+2010-08719	Sally	Chapman	Cornish	sally.chapman@upd.edu.ph	09163549209 	yktF0f7tay	Bachelor of Fine Arts Major in Visual Communication
+2011-51046	Rachel	Bond	Martin	rachel.bond@upd.edu.ph	09935553045 	5h3sWCkatK	Bachelor of Science in Biology
+2017-33524	Tim	Fraser	Randall	tim.fraser@upd.edu.ph	09089933348 	Eq6ZHKoX2K	Bachelor of Science in Electronics and Communications Engineering
+2010-99520	Joseph	Greene	Rutherford	joseph.greene@upd.edu.ph	09484965589 	Wkvms9a2fO	Bachelor of Science in Mining Engineering
+2012-17713	Michael	Abraham	Murray	michael.abraham@upd.edu.ph	09249896985 	mOqQTD3Tdg	Bachelor of Fine Arts Major in Visual Communication
+2018-92594	Bernadette	Morrison	Bailey	bernadette.morrison@upd.edu.ph	09774437491 	CLZhUtTmaK	Bachelor of Science in Civil Engineering
+2012-10948	Carol	Marshall	Bailey	carol.marshall@upd.edu.ph	09970299404 	KMvTAJEYeS	Bachelor of Science in Social Work
+2011-44356	Andrew	Anderson	Springer	andrew.anderson@upd.edu.ph	09219430551 	YgjY3dGs94	Bachelor of Secondary Education
+2012-63159	Sally	Glover	Carr	sally.glover@upd.edu.ph	09396873430 	VAsFOgS8ac	Bachelor of Science in Metallurgical Engineering
+2017-88346	Dominic	Rutherford	Reid	dominic.rutherford@upd.edu.ph	09843705528 	9Uxh9VmmaB	Bachelor of Science in Electronics and Communications Engineering
+2014-38377	Gordon	Buckland	Walker	gordon.buckland@upd.edu.ph	09981201485 	vzdwoTrkJb	Bachelor of Fine Arts Major in Sculpture
+2017-52283	Rose	Scott	Roberts	rose.scott@upd.edu.ph	09877671201 	8XSf9txVMX	Bachelor of Secondary Education
+2013-31563	Kylie	Stewart	Cornish	kylie.stewart@upd.edu.ph	09896906766 	x8MP5lDkSf	Bachelor of Fine Arts Major in Sculpture
+2016-55061	Boris	Martin	Watson	boris.martin@upd.edu.ph	09316037795 	CCCXqbYZkb	Bachelor of Science in Metallurgical Engineering
+2018-76177	Charles	Fraser	Jackson	charles.fraser@upd.edu.ph	09188953079 	RvTC50h0Nx	Bachelor of Science in Interior Design
+2018-47365	Joseph	Lee	Quinn	joseph.lee@upd.edu.ph	09741325193 	LIWcntt7NS	Bachelor of Arts in Broadcasting
+2018-73757	Jacob	May	Murray	jacob.may@upd.edu.ph	09125180047 	wYKcZw7Ju6	Bachelor of Science in Metallurgical Engineering
+2010-67598	Nathan	Jackson	Roberts	nathan.jackson@upd.edu.ph	09145461435 	v6KmtMpJbx	Bachelor of Arts in Psychology
+2014-04251	Sonia	Ince	Randall	sonia.ince@upd.edu.ph	09484381810 	dXRuIZyFIK	Bachelor of Arts in Philosophy
+2015-96146	Caroline	Reid	Parr	caroline.reid@upd.edu.ph	09168051638 	ujNWPaWpQt	Bachelor of Fine Arts Major in Industrial Design
+2017-10654	Charles	Berry	Newman	charles.berry@upd.edu.ph	09239826210 	qy9QjH0r5Q	Bachelor of Library and Information Science
+2018-38297	Penelope	Arnold	Carr	penelope.arnold@upd.edu.ph	09237327634 	l8T9IM5Fog	Bachelor of Science in Biology
+2016-56917	Donna	Paterson	Butler	donna.paterson@upd.edu.ph	09180988924 	TovrrKenfB	Bachelor of Science in Metallurgical Engineering
+2010-10721	Cameron	Walker	Bond	cameron.walker@upd.edu.ph	09252129260 	pSVWTcVaP7	Bachelor of Library and Information Science
+2016-57510	Anne	Gray	Scott	anne.gray@upd.edu.ph	09591283363 	aUXBvp17Rr	Bachelor of Science in Biology
+2013-76915	Paul	Sharp	Ross	paul.sharp@upd.edu.ph	09634170329 	y4ttQQ8dom	Bachelor of Science in Chemical Engineering
+2013-99208	Joseph	Underwood	Dyer	joseph.underwood@upd.edu.ph	09640166590 	DXDdjiSNuh	Bachelor of Science in Interior Design
+2017-79898	Victoria	McGrath	Graham	victoria.mcgrath@upd.edu.ph	09427953381 	JTinbVxse6	Bachelor of Fine Arts Major in Visual Communication
+2018-28901	Julian	Robertson	Martin	julian.robertson@upd.edu.ph	09521138001 	0uB23wXFG0	Bachelor of Science in Psychology
+2015-92939	Carolyn	Slater	Mackenzie	carolyn.slater@upd.edu.ph	09734394740 	7z2KpZ18fF	Bachelor of Science in Chemical Engineering
+2015-20911	Joseph	Mitchell	Gray	joseph.mitchell@upd.edu.ph	09832757752 	EGeNqJQ7KE	Bachelor of Science in Interior Design
+2017-48698	Stephen	Mitchell	Ross	stephen.mitchell@upd.edu.ph	09794339225 	JLrb00HO2g	Bachelor of Library and Information Science
+2010-73794	Penelope	James	McDonald	penelope.james@upd.edu.ph	09365264482 	peAroUZ30t	Bachelor of Fine Arts Major in Painting
+2011-11563	Wendy	Bailey	Rees	wendy.bailey@upd.edu.ph	09201455411 	6IEuTB2DNl	Bachelor of Science in Civil Engineering
+2018-44842	Simon	Hart	Hunter	simon.hart@upd.edu.ph	09106662621 	vrVkDTeIk7	Bachelor of Fine Arts Major in Sculpture
+2011-80884	James	Morrison	White	james.morrison@upd.edu.ph	09292202022 	rXejHAGkh5	Bachelor of Science in Industrial Engineering
+2018-92486	Robert	Knox	Sutherland	robert.knox@upd.edu.ph	09120865729 	0AQCvTAIlz	Bachelor of Science in Electronics and Communications Engineering
+2015-01688	Carolyn	Mills	James	carolyn.mills@upd.edu.ph	09508148362 	upatIashjE	Bachelor of Library and Information Science
+2016-74896	Carol	Jones	Rutherford	carol.jones@upd.edu.ph	09398747698 	Xa3yaxqJTq	Bachelor of Fine Arts Major in Visual Communication
+2017-14610	Jason	Hughes	Arnold	jason.hughes@upd.edu.ph	09644153919 	cCQvQDlxO0	Bachelor of Science in Biology
+2011-86644	Bernadette	Rees	Short	bernadette.rees@upd.edu.ph	09477127743 	6LxWOl1kgl	Bachelor of Science in Geodetic Engineering
+2015-70735	Bella	Nolan	Simpson	bella.nolan@upd.edu.ph	09966517838 	edTzwTu2L6	Bachelor of Science in Industrial Engineering
+2014-38031	Dan	Poole	Sharp	dan.poole@upd.edu.ph	09268613754 	WtmqKYwBHO	Bachelor of Elementary Education
+2016-93705	Rachel	Peters	Campbell	rachel.peters@upd.edu.ph	09496617073 	UoBkciQpQz	Bachelor of Science in Geodetic Engineering
+2011-64332	Sebastian	Gill	Lyman	sebastian.gill@upd.edu.ph	09432408317 	oFcnWQaQnc	Bachelor of Arts in Journalism
+2015-77427	Joanne	Cornish	Churchill	joanne.cornish@upd.edu.ph	09517276361 	te90mMcgdc	Bachelor of Arts in Broadcasting
+2016-86459	Adrian	Pullman	Simpson	adrian.pullman@upd.edu.ph	09521367932 	ZvJBqRcnoS	Bachelor of Fine Arts Major in Sculpture
+2013-47827	Amanda	Jackson	Berry	amanda.jackson@upd.edu.ph	09144675573 	cc1R9NbKq8	Bachelor of Fine Arts Major in Painting
+2015-03784	Mary	Randall	Morrison	mary.randall@upd.edu.ph	09357254987 	j2bM9qqbM3	Bachelor of Science in Industrial Engineering
+2013-98382	Robert	Forsyth	Alsop	robert.forsyth@upd.edu.ph	09607723102 	A8CGaN8Uhp	Bachelor of Fine Arts Major in Visual Communication
+2015-49116	David	Alsop	Jones	david.alsop@upd.edu.ph	09068760341 	Bh6YwE81kA	Bachelor of Science in Geodetic Engineering
+2015-71914	Zoe	Nolan	Bond	zoe.nolan@upd.edu.ph	09095788383 	Y3FkArdhtF	Bachelor of Science in Civil Engineering
+2010-35066	Rose	Quinn	Chapman	rose.quinn@upd.edu.ph	09218411218 	9tc7jek3fK	Bachelor of Arts in Journalism
+2014-10468	Eric	Howard	Russell	eric.howard@upd.edu.ph	09328844061 	Pw3JvxTolM	Bachelor of Science in Architecture
+2016-76880	Stewart	Quinn	Metcalfe	stewart.quinn@upd.edu.ph	09565725601 	bn8chJvk9x	Bachelor of Science in Computer Science
+2012-48492	Megan	Lee	Langdon	megan.lee@upd.edu.ph	09436085254 	YI0tYEu4bn	Bachelor of Library and Information Science
+2013-27353	Joan	Sanderson	Churchill	joan.sanderson@upd.edu.ph	09181128890 	zdcNrm3MNo	Bachelor of Science in Business Administration
+2015-98036	Robert	Campbell	Hardacre	robert.campbell@upd.edu.ph	09086245418 	avsgM1KJNp	Bachelor of Fine Arts Major in Painting
+2014-72010	Heather	McGrath	Mackay	heather.mcgrath@upd.edu.ph	09493089795 	K4M9XPQbzK	Bachelor of Fine Arts Major in Industrial Design
+2016-92755	Warren	North	Blake	warren.north@upd.edu.ph	09341618239 	QzGiEK2JBB	Bachelor of Science in Computer Science
+2012-70146	Gordon	Berry	Martin	gordon.berry@upd.edu.ph	09977944789 	C6mOo6LbLH	Bachelor of Arts in Psychology
+2013-03168	Tim	Ellison	Lee	tim.ellison@upd.edu.ph	09898476712 	GxKTsRIdzz	Bachelor of Science in Architecture
+2015-56890	Evan	Ross	Ellison	evan.ross@upd.edu.ph	09954233420 	lgRLcwbSjd	Bachelor of Science in Chemical Engineering
+2014-74082	Rachel	Murray	Blake	rachel.murray@upd.edu.ph	09025693019 	xYrem7RH4H	Bachelor of Science in Computer Science
+2012-30305	Felicity	Springer	Marshall	felicity.springer@upd.edu.ph	09223880939 	EAiDpHHFeu	Bachelor of Arts in Psychology
+2017-49263	Neil	McGrath	Ellison	neil.mcgrath@upd.edu.ph	09293025727 	E7ZVEQeCp3	Bachelor of Science in Metallurgical Engineering
+2017-29594	Jake	Murray	Piper	jake.murray@upd.edu.ph	09265913327 	35pZjJEjiu	Bachelor of Science in Industrial Engineering
+2018-92615	Max	Tucker	Turner	max.tucker@upd.edu.ph	09819102686 	4qPYNA7gym	Bachelor of Fine Arts Major in Industrial Design
+2015-12128	Kevin	Roberts	Kelly	kevin.roberts@upd.edu.ph	09630559396 	EWeOD6eaZx	Bachelor of Science in Interior Design
+2010-72698	Brandon	Paterson	Sutherland	brandon.paterson@upd.edu.ph	09000923708 	Ok1gScjd1X	Bachelor of Secondary Education
+2016-24265	Peter	Sutherland	Chapman	peter.sutherland@upd.edu.ph	09906635799 	KQV0unIBh2	Bachelor of Library and Information Science
+2011-57437	Melanie	McLean	Metcalfe	melanie.mclean@upd.edu.ph	09224787632 	HIRWHYqOeH	Bachelor of Science in Psychology
+2017-01710	Simon	Smith	Miller	simon.smith@upd.edu.ph	09113083547 	AqvJqsQQYu	Bachelor of Science in Mining Engineering
+2012-03200	Faith	Knox	Hudson	faith.knox@upd.edu.ph	09663959929 	TBu9PDqrnH	Bachelor of Science in Computer Science
+2010-08766	Alison	Robertson	Nolan	alison.robertson@upd.edu.ph	09101471315 	ah3Wvcypdk	Bachelor of Science in Geodetic Engineering
+2015-11630	Lisa	Ball	Forsyth	lisa.ball@upd.edu.ph	09721792091 	ZvbHVPgC6k	Bachelor of Science in Metallurgical Engineering
+2018-44404	Bella	Burgess	Nash	bella.burgess@upd.edu.ph	09203368062 	FQQ5pMzblY	Bachelor of Science in Psychology
+2016-70841	Nathan	Welch	Bower	nathan.welch@upd.edu.ph	09597478543 	bHeOTChRFm	Bachelor of Science in Electrical Engineering
+2018-03975	Frank	Cameron	Arnold	frank.cameron@upd.edu.ph	09621943022 	yPjB8DhGzM	Bachelor of Science in Electrical Engineering
+2010-27115	Benjamin	Ellison	Baker	benjamin.ellison@upd.edu.ph	09545613957 	wEiFjzTFzt	Bachelor of Science in Hotel and Restaurant Management
+2014-99964	Claire	Forsyth	Wallace	claire.forsyth@upd.edu.ph	09914650953 	IE1MlrZw7H	Bachelor of Science in Metallurgical Engineering
+2013-63161	Evan	Quinn	Peake	evan.quinn@upd.edu.ph	09197570834 	4wXXBo8eqr	Bachelor of Science in Civil Engineering
+2013-55827	Anna	Metcalfe	Abraham	anna.metcalfe@upd.edu.ph	09151928891 	w1DP1UJSmD	Bachelor of Science in Interior Design
+2018-61298	Leah	Paterson	Arnold	leah.paterson@upd.edu.ph	09704931773 	SkuUOj8LYc	Bachelor of Science in Metallurgical Engineering
+2015-60748	Victoria	Nolan	Kelly	victoria.nolan@upd.edu.ph	09197211229 	2gZJ6RfYVp	Bachelor of Science in Geodetic Engineering
+2014-23415	Steven	Butler	Hamilton	steven.butler@upd.edu.ph	09625962652 	dX9trP33AE	Bachelor of Science in Mining Engineering
+2015-76412	Claire	Hardacre	Lee	claire.hardacre@upd.edu.ph	09218434213 	9ACVE3Zvtf	Bachelor of Science in Architecture
+2010-76697	Michelle	Forsyth	McDonald	michelle.forsyth@upd.edu.ph	09837984954 	0wBzK4bZCr	Bachelor of Science in Social Work
+2018-01099	Heather	Mathis	Lawrence	heather.mathis@upd.edu.ph	09117063889 	7L6ump6Piv	Bachelor of Fine Arts Major in Painting
+2014-33613	Justin	White	Wright	justin.white@upd.edu.ph	09859817563 	Bxp8CneJnn	Bachelor of Science in Psychology
+2018-30587	Jennifer	Underwood	Coleman	jennifer.underwood@upd.edu.ph	09868474650 	Q57Cl73Enj	Bachelor of Science in Interior Design
+2018-98957	Theresa	Slater	Sharp	theresa.slater@upd.edu.ph	09904888709 	Af76OcXYtY	Bachelor of Science in Social Work
+2016-42325	Lauren	Nolan	Clarkson	lauren.nolan@upd.edu.ph	09771128802 	1eCztuO0Ml	Bachelor of Fine Arts Major in Sculpture
+2014-75389	Boris	McDonald	Gray	boris.mcdonald@upd.edu.ph	09556031583 	tkIbEm66pn	Bachelor of Arts in Journalism
+2011-89953	Caroline	Hudson	MacDonald	caroline.hudson@upd.edu.ph	09058852043 	fpGn99QbWk	Bachelor of Secondary Education
+2017-22121	Ian	Lawrence	Murray	ian.lawrence@upd.edu.ph	09327415821 	CqDAXo3tkd	Bachelor of Science in Electrical Engineering
+2010-44955	Trevor	Poole	Sharp	trevor.poole@upd.edu.ph	09072735626 	MEeD39kJit	Bachelor of Fine Arts Major in Painting
+2017-02151	Melanie	Roberts	Henderson	melanie.roberts@upd.edu.ph	09726490767 	IHj4jagMkI	Bachelor of Elementary Education
+2017-25828	Chloe	Metcalfe	Oliver	chloe.metcalfe@upd.edu.ph	09379061072	TxZKd9lSXX	Bachelor of Arts in Psychology

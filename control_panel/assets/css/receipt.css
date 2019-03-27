@@ -1,0 +1,48 @@
+ul.beautify {
+    margin: 0;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.box {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 10px 15px;
+    width: 250px;
+}
+
+.font-1 {
+    font-size: 25px;
+}
+
+.font-2 {
+    font-size: 20px;
+}
+
+.font-3 {
+    font-size: 15px;
+}
+
+.font-4 {
+    font-size: 12px;
+}
+
+.typewriter {
+    font-family: "Courier";
+}
+
+.underscore {
+    border-bottom: 1px solid black;
+    display: inline-block;
+    width: 75%;
+}

@@ -1,0 +1,36 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.main-header {
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.main-header {
+  display: inline-block;
+}
+
+#login {
+  background-color: #014421;
+}
+
+#menu {
+  background-color: #7B1113;
+}
+
+#link1 {
+    color: white;
+}
+
+#link1:hover {
+     background-color: #014421;
+}
+
+#link2:hover {
+     background-color: transparent;
+     font-size: 100%;
+}

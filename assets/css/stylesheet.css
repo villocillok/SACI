@@ -1,0 +1,35 @@
+a.button.beautify {
+    padding: .2rem .625rem !important;
+}
+
+hr {
+    background: #493867;
+}
+
+.app-logo {
+    margin-top: -4px;
+    height: 75%;
+}
+
+.table {
+    background: white;
+}
+
+.table-header > tr > th {
+    background: #0072c6 !important;
+}
+
+.table-header > tr > th,
+.table-header > tr > th:before,
+.table-header > tr > th:after {
+    color: white !important;
+}
+
+#main-body {
+    /* background: #F3B2E1; */
+    margin-top: 4rem;
+}
+
+#dialog-inner {
+    margin-bottom: 5px;
+}
