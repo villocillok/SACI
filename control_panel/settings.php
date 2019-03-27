@@ -9,7 +9,7 @@
 
     require_once('requests/control_panel_settings.php');
 
-    $settings = new ControlPanelSettings('../../');
+    $settings = new ControlPanelSettings('../');
 ?>
 
 <div class="app-bar fixed-top shadow" data-role="appbar" style="background-color:#493867;">
