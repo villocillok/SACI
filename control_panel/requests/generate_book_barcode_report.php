@@ -19,8 +19,15 @@
     $pdf->AddPage();
     $pdf->SetFont('Arial', '', 8);
 
-    $connection->query("SELECT * FROM book");
+    $connection->query("SELECT * FROM book JOIN barcodes ON book.Book_ID = barcodes.Book_ID ");
 
+    /*
+    SELECT * 
+FROM table1
+JOIN table2 
+ON table1.column_name = table2.column_name; 
+
+    */
     while($row = $connection->fetch_assoc()) 
     {
         
@@ -32,7 +39,7 @@
             $barcode = str_replace(' ', '', $row2['Barcode_Number']);
             // $ctr++;
 
-            $pdf->BarcodeRow(array($row['Book_ID'], $row2['Barcode_Number'], $row['Book_Title'], 'BARCODE:::' . $barcode));
+            $pdf->BarcodeRow(array($row['Book_ID'],$row['Accession_Number'], $row2['Barcode_Number'], $row['Book_Title'], 'BARCODE:::' . $barcode));
             //$pdf->Ln();
         }
     }

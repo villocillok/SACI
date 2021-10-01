@@ -85,6 +85,7 @@
                 <option value="Bachelor of Science in Midwifery">Bachelor of Science in Midwifery</option>
                 <option value="Bachelor of Science in Tourism">Bachelor of Science in Tourism</option>
                 <option value="Bachelor of Science in Hotel and Restaurant Management">Bachelor of Science in Hotel and Restaurant Management</option>
+                <option value="SHS">SHS</option>
             </select>
         </div>
 

@@ -29,8 +29,8 @@
             $this->SetFont('Arial', 'B', 10);
             $this->SetTextColor(25, 40, 35);
             $this->SetAligns(array('C', 'C', 'C', 'C', 'C'));
-            $this->SetWidths(array(25, 30, 40, 40));
-            $this->Row(array('Book ID', 'Accession Number', 'Book Title', 'Barcode'));
+            $this->SetWidths(array(25, 30, 30, 40, 40));
+            $this->Row(array('Book ID', 'Accession Number','Barcode number', 'Book Title', 'Barcode'));
             $this->SetFont('Arial', '', 8);
             $this->SetTextColor(25, 40, 35);
         }
